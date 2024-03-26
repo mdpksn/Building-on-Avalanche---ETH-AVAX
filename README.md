@@ -22,7 +22,11 @@ DegenToken can be used for various purposes. Below are the main functions availa
 - **Withdrawing Ether:** Owners can withdraw Ether from the contract to a specified address using the `withdrawEther` function.
 
 - new contract deployed to address:0xF3e4F64C13c77bB0D5885ab0d9B7B347514AEC10
-- with udpated redeem, (choose from: s,m,b) to burn 10,50,100 tokens. 
+- with udpated redeem, (choose from: s,m,b) to burn 10,50,100 tokens.
+  use:
+  's': 0x73
+  'm': 0x6d
+  'b': 0x62
 
 ## Deployed Contract Address
 
