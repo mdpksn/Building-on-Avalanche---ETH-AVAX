@@ -1,41 +1,26 @@
-# Project Title
+# DegenToken
 
-Simple overview of use/purpose.
+## Introduction
 
-## Description
+DegenToken is an ERC-20 token deployed on the Avalanche Fuji Testnet. It is created by Kim Francis Ong.
 
-An in-depth paragraph about your project and overview of use.
+## Contract Details
 
-## Getting Started
+- **Name:** DegenToken
+- **Symbol:** DGN
+- **Decimals:** 18
+- **Total Supply:** [Total Supply Value]
 
-### Installing
+## Usage
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+DegenToken can be used for [mention specific use cases or functionalities].
 
-### Executing program
+## Deployed Contract Address
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+The DegenToken contract has been deployed to the Avalanche Fuji Testnet. The contract address is [insert contract address here].
 
-## Help
+## Links
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+- Twitter: [@mdpksn](https://twitter.com/mdpksn)
+- Discord: mdpksn
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
